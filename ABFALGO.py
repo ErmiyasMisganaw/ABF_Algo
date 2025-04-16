@@ -44,7 +44,7 @@ while True:
     FirstRound = response_rec("1234")
     SecondRound = response_rec("5678")
     total_found = FirstRound[0] + FirstRound[1] + SecondRound[0] + SecondRound[1]
-    if total_found >4:
+    if total_found > 4:
         print("Wrong Input!")
         continue
     else:
