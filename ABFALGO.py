@@ -11,7 +11,6 @@ def certainty(x):
         return False
     else:
         return True
-res_history = {}
 def clearings(x):
     for i in range(1,10):
         if x[str(i)]==0.5:
