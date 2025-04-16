@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ea887f-8ac5-4736-8c4f-76b5a0a17ffd" name="Changes" comment="" />
+    <list default="true" id="44ea887f-8ac5-4736-8c4f-76b5a0a17ffd" name="Changes" comment="Add existence identifier">
+      <change beforePath="$PROJECT_DIR$/ABFALGO.py" beforeDir="false" afterPath="$PROJECT_DIR$/ABFALGO.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ErmiyasMisganaw"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ErmiyasMisganaw/ABF_Algo",
+    "accountId": "c0484792-b0b2-4ec5-ad98-f05499729570"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -35,6 +49,7 @@
     "Python.ABFALGO.executor": "Coverage",
     "Python.ABF_ALGO.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,12 +99,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744805755663</updated>
-      <workItem from="1744805756609" duration="6166000" />
+      <workItem from="1744805756609" duration="6577000" />
     </task>
+    <task id="LOCAL-00001" summary="Add existence identifier">
+      <option name="closed" value="true" />
+      <created>1744812174139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744812174139</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add existence identifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add existence identifier" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ABF_ALGO$ABFALGO.coverage" NAME="ABFALGO Coverage Results" MODIFIED="1744810665643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

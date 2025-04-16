@@ -78,11 +78,11 @@ if total_found==4:
                 break
             responseNum = response_rec(checking_list[j].replace(str(i),'9'))
             if responseNum != checker:
-                print(str(i) + "does exist")
+                print(str(i) + " does exist")
                 count_first += 1
                 existence.update({str(i):1})
             else:
-                print(str(i) + "doesn't exist")
+                print(str(i) + " doesn't exist")
                 existence.update({str(i): 0})
             if not certainty(existence):
                 break
@@ -105,10 +105,10 @@ else:
                 break
             responseNum = response_rec(checking_list[j].replace(str(i),'9'))
             if responseNum != checker:
-                print(str(i) + "doesn't exist")
+                print(str(i) + " doesn't exist")
                 existence.update({str(i):0})
             else:
-                print(str(i) + "does exist")
+                print(str(i) + " does exist")
                 count_second += 1
                 existence.update({str(i): 1})
             if not certainty(existence):
