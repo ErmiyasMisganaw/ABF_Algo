@@ -38,8 +38,6 @@ def response_rec(x):
         pos_b = 0
     print(pos_a, pos_b)
     return [pos_a, pos_b]
-def yes_nine():
-    print("Yes Nine")
 FirstRound = []
 SecondRound = []
 total_found = 0
